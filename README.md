@@ -1,4 +1,4 @@
-# Jecon
+# Mecon, MOFUCRAFT!!! Jecon
 Economy base plugin for Bukkit/Spigot  
 [日本語解説](https://e-craft.io/bukkit/plugin/jecon/)
 
