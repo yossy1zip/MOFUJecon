@@ -1,8 +1,8 @@
-# Mecon, MOFUCRAFT!!! Jecon
+# Jecon for MOFUCRAFT!!! 
 Economy base plugin for Bukkit/Spigot  
 [日本語解説](https://e-craft.io/bukkit/plugin/jecon/)
 
-## Features
+## Jecon features
 * UUID Ready
 * 1.15 Ready
 * Vault Ready
@@ -11,12 +11,12 @@ Economy base plugin for Bukkit/Spigot
 * Easy to use
 * API available
 
-## Installation
-1. [Download this plugin.](https://github.com/HimaJyun/Jecon/releases/latest "Get Jecon")
-2. drop in plugins directory.
-3. Server start.
-4. config edit.
-5. reload.
+## For MOFUCRAFT!!! features
+* Added a table prefix
+* Added in-game colors
+* Disabled a decimal currency
+* Changed in-game prefix
+
 
 ## Command/Permission
 |Command|Permission|Description|Default|
